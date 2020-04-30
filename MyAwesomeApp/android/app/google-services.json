@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68417045677",
+    "firebase_url": "https://leftovers-cb8ab.firebaseio.com",
+    "project_id": "leftovers-cb8ab",
+    "storage_bucket": "leftovers-cb8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68417045677:android:28ffade8d9a6f0d0667224",
+        "android_client_info": {
+          "package_name": "ntue.dtd.leftovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68417045677-faloni93s1j8l5gj1pkqn279kukgrn7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBC_jiMY5qN2zeRsDKI5eoDeGa4MXseMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68417045677-faloni93s1j8l5gj1pkqn279kukgrn7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
